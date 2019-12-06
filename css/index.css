@@ -237,3 +237,30 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/*about page styling*/
+.middle{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 3%;
+}
+.boxesa {
+    box-sizing: border-box;
+    width: 45%;
+}
+.btn{
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin:0 auto;
+    margin-top: 4%; 
+    margin-right: 70%;
+    padding: 12px;
+    padding-top:4px;
+    padding-bottom:4px;
+    padding-left: 13px;
+}
+hr {
+    border-top: 1px dashed black;
+}
+
